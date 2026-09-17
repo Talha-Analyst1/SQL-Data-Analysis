@@ -50,5 +50,10 @@ To become confident in SQL for querying, filtering, and analyzing data stored in
 - **Day 19:** `UNION` — combining results from multiple queries
 - **Day 20:** Mini Project — Student Management System (`student_management_project.sql`)
   
-- | `day9.sql` – `day19.sql` | Phase 2 daily practice files |
+## 📁 Files
+| File | Description |
+|---|---|
+| `day1.sql` – `day8.sql` | Phase 1 daily practice files |
+| `day9.sql` – `day19.sql` | Phase 2 daily practice files |
 | `student_management_project.sql` | Phase 2 mini project — Student Management System with filtering, grouping, pattern matching, and statistics |
+
