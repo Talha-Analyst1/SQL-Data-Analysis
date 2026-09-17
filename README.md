@@ -33,3 +33,22 @@ To become confident in SQL for querying, filtering, and analyzing data stored in
 ## 🛠️ Tools Used
 - MySQL
 - MySQL Workbench
+
+
+
+### Phase 2: Intermediate SQL ✅
+- **Day 9:** `UPDATE` — modifying existing data
+- **Day 10:** `DELETE` — removing specific rows
+- **Day 11:** `DISTINCT` — unique values
+- **Day 12:** Aggregate functions (`COUNT`, `SUM`, `AVG`, `MAX`, `MIN`)
+- **Day 13:** `GROUP BY` — grouping data for summaries
+- **Day 14:** `HAVING` — filtering grouped data
+- **Day 15:** `LIKE` — pattern matching with wildcards
+- **Day 16:** `IN` and `BETWEEN` — filtering with lists/ranges
+- **Day 17:** `NULL` handling (`IS NULL`, `IS NOT NULL`)
+- **Day 18:** Combined practice — all Phase 2 concepts
+- **Day 19:** `UNION` — combining results from multiple queries
+- **Day 20:** Mini Project — Student Management System (`student_management_project.sql`)
+- 
+- | `day9.sql` – `day19.sql` | Phase 2 daily practice files |
+| `student_management_project.sql` | Phase 2 mini project — Student Management System with filtering, grouping, pattern matching, and statistics |
